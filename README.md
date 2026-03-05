@@ -16,12 +16,12 @@ Due to GitHub’s file size restrictions, large files are hosted on **Quark Driv
 
 | Resource Type              | Download Link | Extraction Code |
 |-----------------------------|---------------|-----------------|
-| Full Dataset (v1.2)         | [Quark Drive](https://pan.quark.cn/s/2e6d4079f753) | `d1up` |
-| Sent2Vec Pre-trained Model  | [Quark Drive](https://pan.quark.cn/s/2e6d4079f753) | `d1up` |
-| Joern Components            | [Quark Drive](https://pan.quark.cn/s/2e6d4079f753) | `d1up` |
+| Full Dataset (v1.2)         | [Quark Drive](https://pan.quark.cn/s/89eeec6f8703) | `w3mF` |
+| Sent2Vec Pre-trained Model  | [Quark Drive](https://pan.quark.cn/s/89eeec6f8703) | `w3mF` |
+| Joern Components            | [Quark Drive](https://pan.quark.cn/s/89eeec6f8703) | `w3mF` |
 
 **Notes:**
-- Total size: ~7.3 GB (compressed)  
+- Total size: ~11.6 GB (compressed)  
 - Please ensure stable internet connection when downloading.  
 - All resources are provided for **academic and research purposes only**.  
 
