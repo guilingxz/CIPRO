@@ -68,36 +68,37 @@ python 4_cpg_to_pkl_converter.py
 python 5_pixel_row_oversampler.py
 python 6_kfold_dataset_splitter.py
 python 7_CIPRO.py
-
+```
 Adjust file paths and parameters inside each script as needed.
 
 ## Requirements
 
-# Core dependencies
+Core dependencies
+
 numpy>=1.21.0
 scikit-learn>=1.0.0
 pandas>=1.3.0
+Deep learning (CUDA 10.2)
 
-# Deep learning (CUDA 10.2)
 torch==1.12.1
 torchvision==0.13.1
 torchaudio==0.12.1
+Utilities
 
-# Utilities
 tqdm>=4.62.0
 prettytable>=3.0.0
+Graph processing
 
-# Graph processing
 networkx>=2.6.0
+Note: The following dependencies require special installation:
+- lap: conda install -c conda-forge lap
+- sent2vec: Needs manual compilation (https://github.com/facebookresearch/sent2vec)
 
-# Note: The following dependencies require special installation:
-# - lap: conda install -c conda-forge lap
-# - sent2vec: Needs manual compilation (https://github.com/facebookresearch/sent2vec)
 
-Reference
+## Reference
 
 This project is based on the method described in the paper:
 
-CIPRO: A Pixel-Row Oversampling-Based Approach for Code Image Enhancement in Vulnerability Detection
+**CIPRO: A Pixel-Row Oversampling-Based Approach for Code Image Enhancement in Vulnerability Detection**
 
-Information and Software Technology (Elsevier), 2026.
+*Information and Software Technology* (Elsevier), 2026.
