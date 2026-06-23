@@ -71,7 +71,7 @@ python 7_CIPRO.py
 
 Adjust file paths and parameters inside each script as needed.
 
-## Requirements
+Requirements
 
 # Core dependencies
 numpy>=1.21.0
@@ -94,7 +94,7 @@ networkx>=2.6.0
 # - lap: conda install -c conda-forge lap
 # - sent2vec: Needs manual compilation (https://github.com/facebookresearch/sent2vec)
 
-## Reference
+Reference
 
 This project is based on the method described in the paper:
 
