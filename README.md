@@ -55,6 +55,7 @@ Due to GitHub's file size restrictions, additional resources are hosted on **Qua
 | `process_bert_ddg.py` | Processes Data Dependence Graphs (DDG) using BERT-based representation learning |
 | `process_pkl_file_k_pro.py` | Processes PKL files with K-pro settings for graph-based feature extraction |
 
+
 ## Usage
 
 Run the scripts sequentially to process the source code and train the vulnerability detection model:
@@ -69,6 +70,7 @@ python 6_kfold_dataset_splitter.py
 python 7_CIPRO.py
 
 Adjust file paths and parameters inside each script as needed.
+
 ## Requirements
 
 # Core dependencies
