@@ -30,7 +30,7 @@ Due to GitHub's file size restrictions, additional resources are hosted on **Qua
 
 | Resource Type | Download Link | Extraction Code |
 |---------------|---------------|-----------------|
-| Full Dataset (v1.2) | [Quark Drive](https://pan.quark.cn/s/89eeec6f8703) | `w3mF` |
+| Full Dataset | [Quark Drive](https://pan.quark.cn/s/89eeec6f8703) | `w3mF` |
 | Sent2Vec Pre-trained Model | Same as above | `w3mF` |
 | Joern Components | Same as above | `w3mF` |
 
