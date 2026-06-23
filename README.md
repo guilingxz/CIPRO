@@ -71,7 +71,7 @@ python 7_CIPRO.py
 
 Adjust file paths and parameters inside each script as needed.
 
-Requirements
+## Requirements
 
 # Core dependencies
 numpy>=1.21.0
